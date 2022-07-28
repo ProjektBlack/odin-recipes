@@ -1,0 +1,19 @@
+.title
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-size: xx-large;
+    color: brown;
+    text-align: center;
+}
+hr
+{
+    color: brown;
+}
+body
+{
+    background-color: beige;
+}
+.links
+{
+    color: crimson;
+}
